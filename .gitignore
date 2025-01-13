@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets
+Content/Frank_Slash_Pack
+Content/LPSDeluxe2TropicalEnvironment
+Content/Man
+Content/Temp
